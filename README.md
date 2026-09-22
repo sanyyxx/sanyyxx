@@ -1,47 +1,42 @@
+<div align="center">
+
 # Hi, I'm Sany 👋
 
-Fullstack developer based in Almaty, Kazakhstan. I build products end-to-end — from architecture to UI.
-
----
-
-### Connect with me
+Fullstack developer based in Almaty, Kazakhstan
 
 [![GitHub](https://img.shields.io/badge/-sanyyxx-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanyyxx)
 
----
-
-### Tech Stack
+<br>
 
 **Languages**
-
-![](https://skillicons.dev/icons?i=js,ts,python,dart,html,css)
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css&perline=6" />
 
 **Frontend**
-
-![](https://skillicons.dev/icons?i=react,flutter,vue,nextjs,tailwind,sass)
+<br>
+<img src="https://skillicons.dev/icons?i=react,flutter,vue,nextjs,tailwind,sass&perline=6" />
 
 **Backend**
-
-![](https://skillicons.dev/icons?i=nodejs,express,fastapi,django,graphql)
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,graphql&perline=6" />
 
 **Databases**
-
-![](https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,mysql)
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,mysql&perline=6" />
 
 **DevOps & Cloud**
-
-![](https://skillicons.dev/icons?i=docker,aws,gcp,nginx,githubactions,linux)
+<br>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,nginx,githubactions,linux&perline=6" />
 
 **Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,vercel&perline=6" />
 
-![](https://skillicons.dev/icons?i=git,figma,vscode,postman,vercel)
+<br>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=sanyyxx&show_icons=true&theme=dark&hide_border=true&hide_title=true&card_width=380" height="150"/>
+<img src="https://streak-stats.demolab.com?user=sanyyxx&theme=dark&hide_border=true&card_width=380" height="150"/>
 
-### GitHub Stats
+<img src="https://komarev.com/ghpvc/?username=sanyyxx&label=Profile+views&color=0e75b6&style=flat" />
 
-![](https://github-readme-stats.vercel.app/api?username=sanyyxx&show_icons=true&theme=dark&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=sanyyxx&theme=dark&hide_border=true)
-
-![](https://komarev.com/ghpvc/?username=sanyyxx&label=Profile+views&color=0e75b6&style=flat)
+</div>
