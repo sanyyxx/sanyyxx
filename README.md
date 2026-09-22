@@ -1,42 +1,30 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:3FD9C7&height=180&section=header" width="100%"/>
+
 # Hi, I'm Sany 👋
 
-Fullstack developer based in Almaty, Kazakhstan
+I'm a Fullstack engineer, passionate about crafting valuable and user-friendly web experiences.
 
-[![GitHub](https://img.shields.io/badge/-sanyyxx-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanyyxx)
+![Profile views](https://komarev.com/ghpvc/?username=sanyyxx&label=Profile+views&color=0e75b6&style=for-the-badge)
 
-<br>
+### Connect with me:
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css&perline=6" />
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,flutter,vue,nextjs,tailwind,sass&perline=6" />
-
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,graphql&perline=6" />
-
-**Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,mysql&perline=6" />
-
-**DevOps & Cloud**
-<br>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,nginx,githubactions,linux&perline=6" />
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,vercel&perline=6" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanyyxx)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanyyxx&show_icons=true&theme=dark&hide_border=true&hide_title=true&card_width=380" height="150"/>
-<img src="https://streak-stats.demolab.com?user=sanyyxx&theme=dark&hide_border=true&card_width=380" height="150"/>
+### My stack:
 
-<img src="https://komarev.com/ghpvc/?username=sanyyxx&label=Profile+views&color=0e75b6&style=flat" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,flutter,dart,nodejs,express,python,postgres,mongodb,redis,docker,aws,gcp,git,figma,vscode,linux" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyyxx&layout=compact&theme=dark&hide_border=true" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sanyyxx&theme=darkhub&no-frame=true&row=1&column=4" height="165"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=sanyyxx&theme=default&hide_border=true" />
 
 </div>
